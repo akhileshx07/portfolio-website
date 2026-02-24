@@ -8,6 +8,10 @@ A fully responsive personal portfolio website built using HTML and CSS to showca
 🔗 https://akhileshx07.github.io/portfolio-website/
 
 ---
+## 📸 Preview
+
+![Portfolio Preview](portfolio-screenshot/portfolio-preview.png)
+
 
 ## 🛠 Tech Stack
 - HTML5
