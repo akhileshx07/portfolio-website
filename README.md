@@ -5,7 +5,7 @@ A fully responsive personal portfolio website built using HTML and CSS to showca
 ---
 
 ## 🚀 Live Demo
-🔗 https://akhileshx07.github.io/portfolio-website/
+🔗 https://akhilesh-sharma-portfolio.netlify.app/
 
 ---
 ## 📸 Preview
